@@ -5,9 +5,9 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-uuid=ad806411-2d26-4636-98b6-ab85cc8221f1
-mypath=/myfdsave-fsfdsaa
-myport=8080
+uuid=6a4685b4-04c0-4d67-aa8b-8ce0471d5ff9
+mypath=/fdsauJFKDndlsa
+myport=80
 
 
 # Write V2Ray configuration
